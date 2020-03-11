@@ -1,0 +1,9 @@
+/*
+javascript basic #1:
+create your first JS function helloWorld
+*/
+
+function helloWorld() {
+  var str = "Hello World!"
+  console.log( str )
+}
