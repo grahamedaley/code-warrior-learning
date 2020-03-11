@@ -4,6 +4,6 @@
 
 # The Kata's:
 
-- #1: create your first JS function helloWorld
+- #1: [Javascript Basics 01](https://github.com/grahamedaley/code-warrior-learning/blob/master/javascript-basic-01)
 - #2: Basic data types--Number
 - #3: Basic data types--String
